@@ -1,5 +1,6 @@
 # Blackjack-game
-A blackjack game made with Python. <br/>
+A blackjack game made with Python.
+
 
 Try it here: https://replit.com/@prodbysshi/blackjack-game
 
